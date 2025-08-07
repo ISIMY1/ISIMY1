@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Simon Dhillon
 
-<!--
-**ISIMY1/ISIMY1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My long term goal is to into Cybersecurity. I've completed the CompTIA A+, Security+ certifications, AZ-900, and currently studying for the AZ-104 exams while learning practical cybersecurity skills.
 
-Here are some ideas to get you started:
+🔭 I’m planning to:
+- Build cybersecurity projects (like port scanners, password crackers, etc.)
+- Post walkthroughs of TryHackMe and Hack The Box labs
+- Share my learning notes and tools
+- Document my progress toward my first role in Cyber Security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 What I’m currently learning:
+- Networking fundamentals
+- Linux basics and bash scripting
+- Python for cybersecurity
+- Azure cloud security
+
+💡 Fun fact: I'm based in New Zealand and passionate about ethical hacking!
+
+📫 Connect with me: [LinkedIn](www.linkedin.com/in/simondhillon)
